@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Valeriy Shevchenko @vsheva
-- 👀 I’m interested in new technologies particularly web and fullstack development
+- 👋 Hi, I’m Valeriy Shevchenko.
+- 👀 I’m interested in new technologies particularly web and fullstack development.
 - 🌱 I’m currently learning React and Vue.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on coding.
+- 📫 How to reach me -@vsheva on Github.
 
 <!---
 vsheva/vsheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
