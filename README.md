@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Sheva.
 - 👀 I’m interested in new technologies particularly web and fullstack development.
-- 🌱 I’m currently learning React and Vue.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me -@vsheva on Github.
 
