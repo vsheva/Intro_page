@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Sheva.
+- 👋 Hello, I’m Shev.
 - 👀 I’m interested in new technologies particularly web and fullstack development.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on coding.
