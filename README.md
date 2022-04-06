@@ -1,6 +1,6 @@
-- 👋 Hello, I'm Valerii.
-- 👀 I’m interested in new technologies particularly web and fullstack development.
-- 🌱 
+- 👋 Hello. 
+- 👀 I'm Valerii.
+- 🌱 I’m interested in new technologies particularly web and fullstack development.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me -@vsheva on Github.
 
